@@ -12,3 +12,4 @@ Projeto base para o jogo Dominus Online
 
 - Faça um fork do projeto.
 - Abra o caminho do arquivo `index.html` no navegador.
+
